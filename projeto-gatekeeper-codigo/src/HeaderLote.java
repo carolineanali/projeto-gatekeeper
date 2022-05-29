@@ -17,8 +17,8 @@ public class HeaderLote {
     private String overlay;
     private String postagem;
     private String brancos;
-    private ArrayList quantErrosHL = new ArrayList<>();
-    private ArrayList quantOkHL = new ArrayList<>();
+    private ArrayList quantErrosHL = new ArrayList<String>();
+    private ArrayList quantOkHL = new ArrayList<String>();
 
     public HeaderLote(String linhaArquivo) {
 

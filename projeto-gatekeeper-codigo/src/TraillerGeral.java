@@ -7,8 +7,8 @@ public class TraillerGeral {
     private String tipRegTG;
     private String qtdCartArq;
     private String brancos5;
-    private ArrayList quantErrosTG = new ArrayList<>();
-    private ArrayList quantOkTG = new ArrayList<>();
+    private ArrayList quantErrosTG = new ArrayList<String>();
+    private ArrayList quantOkTG = new ArrayList<String>();
 
     public TraillerGeral(String linhaArquivo) {
         this.tipRegTG = linhaArquivo.substring(0, 1);

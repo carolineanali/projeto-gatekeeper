@@ -1,0 +1,109 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(â¤´|
+J
+java:S3740"/Provide the parametrized type for this generic.(¹Ááäüÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(÷¶æœùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¬ğÍµşÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¶Ñãüÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(°·¢¾
+D
+java:S3740"/Provide the parametrized type for this generic.(ßáÙ{
+J
+java:S3740"/Provide the parametrized type for this generic.(ÆÊ¼Ğÿÿÿÿÿ
+E
+java:S3740#"/Provide the parametrized type for this generic.(’¤Ñš
+D
+java:S3740'"/Provide the parametrized type for this generic.(ãüğ
+J
+java:S3740+"/Provide the parametrized type for this generic.(¾çß¬şÿÿÿÿ
+D
+java:S3740/"/Provide the parametrized type for this generic.(èÿ
+J
+java:S37403"/Provide the parametrized type for this generic.(å³¨±ûÿÿÿÿ
+J
+java:S37407"/Provide the parametrized type for this generic.(¨òÎüÿÿÿÿ
+E
+java:S3740;"/Provide the parametrized type for this generic.(ÿªå³
+E
+java:S3740?"/Provide the parametrized type for this generic.(äÃ‚Å
+E
+java:S3740C"/Provide the parametrized type for this generic.(¨ğáŒ
+D
+java:S3740G"/Provide the parametrized type for this generic.(ãó
+a
+java:S1192~"KDefine a constant instead of duplicating this literal "
+Arquivo: " 5 times.(Ò¨ùó
+o
+java:S1192¼"XDefine a constant instead of duplicating this literal "Erro ao abrir o arquivo" 3 times.(‹ÙŠà
+t	java:S135Õ"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+…
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ßáÙ{
+‚
+java:S1319"gThe type of "errosHG" should be an interface such as "List" rather than the implementation "ArrayList".(ÆÊ¼Ğÿÿÿÿÿ
+†
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’¤Ñš
+|
+java:S1319'"gThe type of "errosHL" should be an interface such as "List" rather than the implementation "ArrayList".(ãüğ
+‹
+java:S1319+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¾çß¬şÿÿÿÿ
+|
+java:S1319/"gThe type of "errosDT" should be an interface such as "List" rather than the implementation "ArrayList".(èÿ
+‹
+java:S13193"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(å³¨±ûÿÿÿÿ
+‚
+java:S13197"gThe type of "errosTL" should be an interface such as "List" rather than the implementation "ArrayList".(¨òÎüÿÿÿÿ
+†
+java:S1319;"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÿªå³
+}
+java:S1319?"gThe type of "errosTG" should be an interface such as "List" rather than the implementation "ArrayList".(äÃ‚Å
+†
+java:S1319C"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¨ğáŒ
+
+java:S1319G"jThe type of "errosLinha" should be an interface such as "List" rather than the implementation "ArrayList".(ãó
+>
+java:S1604\"(Make this anonymous inner class a lambda(´‰à
+0
+java:S1220""Move this file to a named package.
+H
+java:S1135N"2Complete the task associated to this TODO comment.(ùâìú
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(¬ÆáÄ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(íƒè˜
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(¬®¿
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(˜ªº«ıÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ùü»‚ùÿÿÿÿ
+h
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ùÀ€å
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(Şáğüÿÿÿÿ
+a
+java:S2147½"ECombine this catch with the one at line 186, which has the same body.(ĞĞ¹óúÿÿÿÿ
+\
+java:S2147À"ECombine this catch with the one at line 186, which has the same body.(ï­£Ä
+P
+java:S4719„"9Replace charset name argument with StandardCharsets.UTF_8(½¿ÇÇ
+U
+java:S1135•"2Complete the task associated to this TODO comment.(°®¬²ÿÿÿÿÿ8÷¼¦‘0
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(‹ÙŠà
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(‹ÙŠà
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(‹ÙŠà
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(´£ïşÿÿÿÿ
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(º´ÚÊúÿÿÿÿ
+g	java:S128Š"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+T	java:S106ì"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¹—™ˆûÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(Í“îÿÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ÃÃªò
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(•ÚÔÙ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(…ìÀüÿÿÿÿ
+N	java:S106†"9Replace this use of System.out or System.err by a logger.(›ùıI
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ìğ›ùÿÿÿÿ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(‚®²³øÿÿÿÿ

@@ -8,8 +8,8 @@ public class HeaderGeralArquivo {
     private String sistOrig;
     private String dtMovto;
     private String brancos;
-    private ArrayList quantErrosHG = new ArrayList<>();
-    private ArrayList quantOkHG = new ArrayList<>();
+    private ArrayList quantErrosHG = new ArrayList<String>();
+    private ArrayList quantOkHG = new ArrayList<String>();
 
     public HeaderGeralArquivo(String linhaArquivo) {
         this.tipRegHg = linhaArquivo.substring(0, 1);

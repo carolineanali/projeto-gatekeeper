@@ -7,8 +7,8 @@ public class TraillerLote {
     private String kitT;
     private String qtdCartLote;
     private String brancos4;
-    private ArrayList quantErrosTL = new ArrayList<>();
-    private ArrayList quantOkTL = new ArrayList<>();
+    private ArrayList quantErrosTL = new ArrayList<String>();
+    private ArrayList quantOkTL = new ArrayList<String>();
 
     public TraillerLote(String linhaArquivo) {
         this.tipRegT = linhaArquivo.substring(0, 1);

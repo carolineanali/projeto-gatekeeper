@@ -66,8 +66,8 @@ public class Detalhe {
     private String complementoEndereco;
     private String branco3;
 
-    private ArrayList quantErrosDt = new ArrayList<>();
-    private ArrayList quantOkDt = new ArrayList<>();
+    private ArrayList quantErrosDt = new ArrayList<String>();
+    private ArrayList quantOkDt = new ArrayList<String>();
 
 
     public Detalhe(String linhaArquivo) {

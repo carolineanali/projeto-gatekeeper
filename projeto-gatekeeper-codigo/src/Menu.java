@@ -13,7 +13,8 @@ public class Menu {
         System.out.println("\nGostaria de ver os erros apresentados?\n" +
                 "\nDigite:\n" +
                 "1 - SIM\n" +
-                "2 - NÃO\n");
+                "2 - NÃO\n" +
+                "3 - Validar outros arquivos\n");
 
 
     }
